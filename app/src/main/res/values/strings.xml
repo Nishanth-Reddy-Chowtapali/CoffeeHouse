@@ -6,4 +6,6 @@
     <string name="enter_your_mobile_number">Enter your mobile number</string>
     <string name="let_s_go">Let\'s Go</string>
     <string name="premium_coffee">Premium Coffee</string>
+    <string name="note">Note: per cup: ₹50 \nHot Coffee: ₹5 \nBrewed Coffee ₹7</string>
+    <string name="quantity">QUANTITY</string>
 </resources>
