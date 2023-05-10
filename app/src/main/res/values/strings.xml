@@ -8,4 +8,7 @@
     <string name="premium_coffee">Premium Coffee</string>
     <string name="note">Note: per cup: ₹50 \nHot Coffee: ₹5 \nBrewed Coffee ₹7</string>
     <string name="quantity">QUANTITY</string>
+    <string name="note_mocha">Note: per cup: ₹70 \nHot Coffee: ₹5 \nBrewed Coffee ₹7</string>
+    <string name="note_espresso">Note: per cup: ₹75 \nHot Coffee: ₹5 \nBrewed Coffee ₹7</string>
+    <string name="note_frappe">Note: per cup: ₹90 \nHot Coffee: ₹5 \nBrewed Coffee ₹7</string>
 </resources>
