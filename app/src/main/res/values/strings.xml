@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CoffeeHouse</string>
+    <string name="welcome_caffeholic">Welcome Caffeholic!</string>
+    <string name="we_need_some_details_to_hook_you_up_better">We need some details to hook you up better.</string>
+    <string name="name">Name</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="premium_coffee">Premium Coffee</string>
 </resources>
